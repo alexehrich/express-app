@@ -1,3 +1,4 @@
+# Triggered by changes in express-app or this workflow file
 name: Build and publish Express app
 
 on:
